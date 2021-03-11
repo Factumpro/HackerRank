@@ -9,3 +9,9 @@
 
 
 Solutions are coded using Python 3
+
+
+# Python
+|  Subdomain  |                                                Practice                                               | Points |                                                                         Solution                                                                           |
+|:-----------:|:------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Numpy | [LinearAlgebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)                                             |   20   | [LinearAlgebra.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py)                        |
