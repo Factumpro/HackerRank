@@ -21,3 +21,9 @@ Solutions are coded using Python 3
 | Numpy             | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | Easy |   20   | [Dot_Cross.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py)                        |
 | Numpy             | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy |   20   | [Inner_Outer.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py)                        |
 | Numpy             | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | Easy |   20   | [Polynomials.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py)                        |
+
+
+
+Syntax guide for .md
+
+    https://guides.github.com/features/mastering-markdown/
