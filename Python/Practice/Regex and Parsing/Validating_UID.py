@@ -1,6 +1,9 @@
 ''''
 Validating UID 
 
+  Link to problem statement:
+  https://hackerrank-challenge-pdfs.s3.amazonaws.com/12187-validating-uid-English?AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1615479642&Signature=oAG6PVtXJZOWXQqbk3z2VBNGnAE%3D&response-content-disposition=inline%3B%20filename%3Dvalidating-uid-English.pdf&response-content-type=application%2Fpdf
+
   ABCXYZ company has up to 100 employees.
   The company decides to create a unique identification number (UID) for each of its employees.
   The company has assigned you the task of validating all the randomly generated UIDs.
