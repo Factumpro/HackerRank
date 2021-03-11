@@ -9,3 +9,19 @@
 
 
 Solutions are coded using Python 3
+
+
+# Python
+|      Subdomain    |                                                Practice                                                | Difficulty | Points |                                                                         Solution                                                                           |
+|:-----------------:|:------------------------------------------------------------------------------------------------------:|:----------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Regex and Parsing | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | Easy |   40   | [Validating_UID.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Validating_UID.py)                        |
+| Regex and Parsing | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem) | Easy |   30   | [HTMLParser_part2.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/HTMLParser_part2.py)                        |
+| Regex and Parsing | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem) | Easy |   30   | [Detect_HTML_Tags_Attr_AttValues.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Detect_HTML_Tags_Attr_AttValues.py)                        |
+| Numpy             | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | Easy |   20   | [LinearAlgebra.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py)                        |
+| Numpy             | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | Easy |   20   | [Dot_Cross.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py)                        |
+| Numpy             | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy |   20   | [Inner_Outer.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py)                        |
+| Numpy             | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | Easy |   20   | [Polynomials.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py)                        |
+
+
+
+[Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
