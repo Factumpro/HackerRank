@@ -24,6 +24,4 @@ Solutions are coded using Python 3
 
 
 
-Syntax guide for .md
-
-    https://guides.github.com/features/mastering-markdown/
+[Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
