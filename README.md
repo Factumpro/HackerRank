@@ -37,7 +37,6 @@ Solutions are coded using Python 3
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 |      Subdomain    |                                                Tutorials                                                | Difficulty | Status |                                                                         Solution                                                                           |
-|:-----------------:|:------------------------------------------------------------------------------------------------------:|:----------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
 
 
