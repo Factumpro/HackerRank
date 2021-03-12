@@ -38,6 +38,17 @@ Solutions are coded using Python 3
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 |      Subdomain    |                                                Tutorials                                                | Difficulty | Status |                                                                         Solution                                                                           |
 | 30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
+| 30 Days of Code   | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_01.py)
+| 30 Days of Code   | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_02.py)
+| 30 Days of Code   | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_03.py)
+| 30 Days of Code   | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_04.py)
+| 30 Days of Code   | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_05.py)
+| 30 Days of Code   | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_06.py)
+| 30 Days of Code   | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_07.py)
+| 30 Days of Code   | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_08.py)
+| 30 Days of Code   | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_09.py)
+| 30 Days of Code   | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_10.py)
+
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
