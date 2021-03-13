@@ -2,7 +2,7 @@
 List Comprehensions
 
   Link to problem statement:
-  https://hackerrank-challenge-pdfs.s3.amazonaws.com/1572-list-comprehensions-English?AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1615487524&Signature=v7JQP%2BvDq%2BTBvhRZjCKjPSV%2Fsq4%3D&response-content-disposition=inline%3B%20filename%3Dlist-comprehensions-English.pdf&response-content-type=application%2Fpdf
+  https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 
 ''''

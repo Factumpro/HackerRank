@@ -2,7 +2,7 @@
 Find the Runner-Up Score!
 
   Link to problem statement:
-  https://hackerrank-challenge-pdfs.s3.amazonaws.com/1374-find-second-maximum-number-in-a-list-English?AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1615488044&Signature=ZdTn2jJUPO4GpBf6oBIjSDfeAbE%3D&response-content-disposition=inline%3B%20filename%3Dfind-second-maximum-number-in-a-list-English.pdf&response-content-type=application%2Fpdf
+  https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
 ''''
 
