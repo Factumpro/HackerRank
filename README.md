@@ -41,6 +41,7 @@ Solutions are coded using Python 3
 | Strings | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_Capitalize.py)
 | Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/sWAP_cASE.py)
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py)
+| Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py)
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 |      Subdomain    |                                                Tutorials                                                | Difficulty | Status |                                                                         Solution                                                                           |
