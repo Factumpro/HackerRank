@@ -42,7 +42,8 @@ Solutions are coded using Python 3
 | Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/sWAP_cASE.py)
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py)
 | Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py)
-| Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
+| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str2list.py)
+| Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 |      Subdomain    |                                                Tutorials                                                | Difficulty | Status |                                                                         Solution                                                                           |
 | 30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
