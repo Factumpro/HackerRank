@@ -5,8 +5,11 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
+Practice:
 * [Python](#Python)
-
+Tutorials:
+* [Python.30 Days of Code](#30Days_ofCode)
+* [Python.10 Days of Statistics](#10Days_ofStatistics)
 
 Solutions are coded using Python 3
 
@@ -48,6 +51,7 @@ Solutions are coded using Python 3
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 
+#30Days_OfCode
 |      Subdomain      |                                                         Tutorials                                                        | Difficulty | Status | Solution |
 |:-------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
 |   30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
@@ -82,5 +86,18 @@ Solutions are coded using Python 3
 | 30 Days of Code   | [Day 29: Bitwise AND]() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
 | 30 Days of Code   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_30.py)
 
+#10Days_ofStatistics
+|      Subdomain      |                                                         Tutorials                                                        | Difficulty | Status | Solution |
+|:-------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
+| 10 Days of Statistics   | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
+| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/)
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
