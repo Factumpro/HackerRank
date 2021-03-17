@@ -8,7 +8,7 @@
 count of solution: 46
 
 ## Practice:
-### [Python](./README.md##python)
+### [Python](./README.md#python)
  - [Basic Data Types](./README.md#basic-data-types)
  - [Built-Ins](./README.md#)
  - [Classes]
