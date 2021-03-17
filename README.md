@@ -5,6 +5,8 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
+summary count of solution: 46
+
 Practice:
 * [Python](#python)
 * [SQL](#sql)
