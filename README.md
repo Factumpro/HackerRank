@@ -12,7 +12,7 @@ Solutions are coded using Python 3
 
 
 # Python
-|      Subdomain    |                                                         Practice                                                         | Difficulty | Status | Solution |
+|     Subdomain     |                                                         Practice                                                         | Difficulty | Status | Solution |
 |:-----------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Comprehensions.py)
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Sort.py)
@@ -47,7 +47,7 @@ Solutions are coded using Python 3
 | Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py)
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-|      Subdomain    |                                                                                                                         Tutorials                                                                                                                           | Difficulty | Status | Solution |
+|     Subdomain     |                                                         Tutorials                                                        | Difficulty | Status | Solution |
 | 30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
 | 30 Days of Code   | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_01.py)
 | 30 Days of Code   | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_02.py)
