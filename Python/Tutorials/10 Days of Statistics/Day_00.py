@@ -1,4 +1,12 @@
 '''
+Solution for Day 0:
+
+    Day 0: Mean, Median, and Mode
+    Day 0: Weighted Mean
+    
+'''
+
+'''
 Day 0: Mean, Median, and Mode
 
   https://www.hackerrank.com/challenges/s10-basic-statistics/problem
