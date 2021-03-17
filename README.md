@@ -12,8 +12,8 @@ Solutions are coded using Python 3
 
 
 # Python
-|      Subdomain    |                                                Practice                                                | Difficulty | Status |                                                                         Solution                                                                           |
-|:-----------------:|:------------------------------------------------------------------------------------------------------:|:----------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      Subdomain    |                                                Practice                                                | Difficulty | Status | Solution |
+|:-----------------:|:------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Comprehensions.py)
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Sort.py)
 | Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Easy | Solved | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Nested_lists.py)
