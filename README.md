@@ -6,15 +6,15 @@
 </p>
 
 Practice:
-* [Python](#Python)
-* [SQL](#SQL)
+* [Python](#python)
+* [SQL](#sql)
 
 Tutorials (Python):
-* [30 Days of Code](#30Days_ofCode)
-* [10 Days of Statistics](#10Days_ofStatistics)
+* [30 Days of Code](#30-days-of-code)
+* [10 Days of Statistics](#10-days-of-statistics)
 
 
-# Practice (Python)
+# Python
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
 |:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Comprehensions.py)
@@ -51,7 +51,7 @@ Tutorials (Python):
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 
-# Practice (SQL)
+# SQL
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
 |:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
 | Advanced Join       | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
@@ -65,7 +65,7 @@ Tutorials (Python):
 
 
 
-# 30 Days of Code (Python)
+# 30 Days of Code
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
 |:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
 | 30 Days of Code   | [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
@@ -100,7 +100,7 @@ Tutorials (Python):
 | 30 Days of Code   | [Day 29: Bitwise AND]() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
 | 30 Days of Code   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_30.py)
 
-# 10 Days of Statistics (Python)
+# 10 Days of Statistics
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
 |:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
 | 10 Days of Statistics   | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
