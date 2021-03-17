@@ -29,8 +29,8 @@ count of solution: 46
 ### [SQL](#sql)
 
 ## Tutorials (Python):
-### [30 Days of Code](#30-days-of-code)
-### [10 Days of Statistics](#10-days-of-statistics)
+- [30 Days of Code](./README.md#30-days-of-code)
+- [10 Days of Statistics](./README.md#10-days-of-statistics)
 
 
 ## Python
@@ -185,9 +185,9 @@ count of solution: 46
 |   Difficulty   |   Status  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 
-|Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
-|Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
-|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/)
+|Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
+|Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)|
+|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/) |
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
