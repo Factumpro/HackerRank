@@ -1,3 +1,6 @@
+# https://docs.python.org/3.5/library/typing.html#generics
+
+
 #include <iostream>
 #include <vector>
 #include <string>
