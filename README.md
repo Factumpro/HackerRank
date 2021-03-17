@@ -43,6 +43,8 @@ Solutions are coded using Python 3
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py)
 | Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py)
 | Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str2list.py)
+| Strings | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/count_substring.py)
+| Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py)
 | Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
 | XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
 |      Subdomain    |                                                Tutorials                                                | Difficulty | Status |                                                                         Solution                                                                           |
