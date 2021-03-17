@@ -182,9 +182,8 @@ count of solution: 46
 |Easy|Unsolved| [Day 29: Bitwise AND]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
 
 ## 10 Days of Statistics
-|   Difficulty   |   Status  |    Problem    |   Solution    |
-|:-------------:|:-------------:|:-------------|:---------:|
-
+|   Difficulty   |   Status         |    Problem    |   Solution    |
+|:--------------:|:----------------:|:--------------|:-------------:|
 |Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
 |Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)|
 |Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/) |
