@@ -28,9 +28,9 @@ count of solution: 46
 
 ### [SQL](#sql)
 
-Tutorials (Python):
-* [30 Days of Code](#30-days-of-code)
-* [10 Days of Statistics](#10-days-of-statistics)
+## Tutorials (Python):
+### [30 Days of Code](#30-days-of-code)
+### [10 Days of Statistics](#10-days-of-statistics)
 
 
 ## Python
@@ -133,7 +133,7 @@ Tutorials (Python):
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
 
 
-# SQL
+## SQL
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
 |:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
 | Advanced Join       | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
@@ -147,7 +147,7 @@ Tutorials (Python):
 
 
 
-# 30 Days of Code
+## 30 Days of Code
 |   Difficulty   |   Status  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 |Easy|Solved| [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
@@ -174,19 +174,20 @@ Tutorials (Python):
 |Easy|Solved| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py)
 |Easy|Unsolved| [Day 22: Binary Search Trees]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
 |Easy|Unsolved| [Day 23: BST Level-Order Traversal]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
-|Easy|Unsolved| [Day 24: More Linked Lists]() |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
+|Easy|Unsolved| [Day 24: More Linked Lists]()    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
 |Easy|Unsolved| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
 |Easy|Unsolved| [Day 26: Nested Logic]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py)
 |Easy|Unsolved| [Day 27: Testing]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py)
 |Easy|Unsolved| [Day 28: RegEx, Patterns, and Intro to Databases]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py)
 |Easy|Unsolved| [Day 29: Bitwise AND]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
 
-# 10 Days of Statistics
-|   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
-|:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
-| 10 Days of Statistics   | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
-| 10 Days of Statistics   | [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
-| 10 Days of Statistics   | []() | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/)
+## 10 Days of Statistics
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+
+|Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
+|Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)
+|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/)
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
