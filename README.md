@@ -7,51 +7,131 @@
 
 count of solution: 46
 
-Practice:
-* [Python](#python)
-* [SQL](#sql)
+## Practice:
+### [Python](./README.md##python)
+ - [Basic Data Types](./README.md#basic-data-types)
+ - [Built-Ins](./README.md#)
+ - [Classes]
+ - [Closures and Decorators]
+ - [Collections]
+ - [Date and Time]
+ - [Debugging]
+ - [Errors and Exceptions]
+ - [Itertools]
+ - [Math]
+ - [Numpy](./README.md#Numpy)
+ - [Python Functionals]
+ - [Regex and Parsing](./README.md#Regex-and-Parsing)
+ - [Sets]
+ - [Strings](./README.md#Strings)
+ - [XML](./README.md#)
+
+### [SQL](#sql)
 
 Tutorials (Python):
 * [30 Days of Code](#30-days-of-code)
 * [10 Days of Statistics](#10-days-of-statistics)
 
 
-# Python
-|   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
-|:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
-| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Comprehensions.py)
-| Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Sort.py)
-| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Easy | Solved | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Nested_lists.py)
-| Basic Data Types | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | Easy | Solved | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/percentage.py)
-| Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Lists_getattr.py)
-| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Tuples.py)
-| Built-Ins | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Classes | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Closures and Decorators | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Collections | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Date and Time | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Debugging | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Errors and Exceptions | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Itertools | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Math | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Numpy             | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py)                        |
-| Numpy             | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py)                        |
-| Numpy             | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py)                        |
-| Numpy             | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py)                        |
-| Python Functionals | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Regex and Parsing | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Validating_UID.py)                        |
-| Regex and Parsing | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/HTMLParser_part2.py)                        |
-| Regex and Parsing | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Detect_HTML_Tags_Attr_AttValues.py)                        |
-| Sets | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
-| Strings | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_Capitalize.py)
-| Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/sWAP_cASE.py)
-| Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py)
-| Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py)
-| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str2list.py)
-| Strings | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/count_substring.py)
-| Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py)
-| Strings | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/)
-| XML | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice)
+## Python
+### Basic Data Types
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+|	Solved	|	Easy		| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)								| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Comprehensions.py)	| 
+|	Solved	|	Easy		| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)		| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_Sort.py)			|
+|	Solved	|	Easy		| [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)												| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Nested_lists.py)			|
+|	Solved	|	Easy		| [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)						| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/percentage.py)			|
+|	Solved	|	Easy		| [Lists](https://www.hackerrank.com/challenges/python-lists/problem)													| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Lists_getattr.py)		|
+|	Solved	|	Easy		| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)													| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/Tuples.py)				|
+
+### Built-Ins
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Classes
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Closures and Decorators
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Collections
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Date and Time
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Debugging
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Errors and Exceptions
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Itertools
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Math
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Numpy
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Solved	|	Easy		| [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py) |
+| Solved	|	Easy		| [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py)                        |
+| Solved	|	Easy		| [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py) |
+| Solved	|	Easy		| [Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py) |
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Python Functionals
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Regex and Parsing
+|	Status  |	Difficulty	|	Problem																																				|  Solution																																|    
+|:---------:|:-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
+| Solved	|	Easy		| [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem)																		| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Validating_UID.py)					|
+| Solved	|	Easy		| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem)																| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/HTMLParser_part2.py)                |
+| Solved	|	Easy		| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)	| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Detect_HTML_Tags_Attr_AttValues.py) |
+
+### Sets
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### Strings
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Solved	|	Easy		| [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)												| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_Capitalize.py)					|
+| Solved	|	Easy		| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)													| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/sWAP_cASE.py)							|
+| Solved	|	Easy		| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)					| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py)						|
+| Solved	|	Easy		| [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)									| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py)								|
+| Solved	|	Easy		| [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)											| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str2list.py)							|
+| Solved	|	Easy		| [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)											| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/count_substring.py)					|
+| Solved	|	Easy		| [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)									| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py)					|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
+### XML
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+
 
 # SQL
 |   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
