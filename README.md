@@ -8,7 +8,7 @@
 count of solution: 46
 
 ## Practice:
-### [Python](./README.md#python)
+### [Python]
  - [Basic Data Types](./README.md#basic-data-types)
  - [Built-Ins](./README.md#)
  - [Classes]
@@ -26,7 +26,13 @@ count of solution: 46
  - [Strings](./README.md#Strings)
  - [XML](./README.md#)
 
-### [SQL](#sql)
+### [SQL]
+- [Advanced Join](./README.md#)
+- [Advanced Select](./README.md#)
+- [Aggregation](./README.md#)
+- [Alternative Queries](./README.md#)
+- [Basic Join](./README.md#)
+- [Basic Select](./README.md#Basic-Select)
 
 ## Tutorials (Python):
 - [30 Days of Code](./README.md#30-days-of-code)
@@ -134,18 +140,36 @@ count of solution: 46
 
 
 ## SQL
-|   Subdomain   |    Problem    |   Difficulty  |   Status  |   Solution    |
-|:-------------:|:-------------:|:-------------:|:---------:|:-------------:|
-| Advanced Join       | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
-| Advanced Select     | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
-| Aggregation         | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
-| Alternative Queries | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
-| Basic Join          | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
-| Basic Select        | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I)
-| Basic Select        | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | Easy |   Solved   | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II)
-| Basic Select        | [NEW](https://www.hackerrank.com/challenges/) | Easy |   Unsolved   | [file.py]()
+### Advanced Join
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
+### Advanced Select 
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
+### Aggregation 
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
+
+### Alternative Queries 
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
+
+### Basic Join 
+|   Difficulty   |   Status  |    Problem    |   Solution    |
+|:-------------:|:-------------:|:-------------|:---------:|
+| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
+
+### Basic Select
+|	Status  |	Difficulty	|	Problem																												|  Solution																													|    
+|:---------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------:|
+| Solved  |	Easy		| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I)|
+| Solved  |	Easy		| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II)|
 
 ## 30 Days of Code
 |   Difficulty   |   Status  |    Problem    |   Solution    |
