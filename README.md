@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 48
+count of solution: 49
 
 ## Practice:
 ### [Python]
@@ -212,6 +212,7 @@ count of solution: 48
 |Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_2.py)|
 |Easy|Solved| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_1.py) |
 |Easy|Solved| [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_2.py) |
+|Easy|Solved| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_3.py) |
 |Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
 
 
