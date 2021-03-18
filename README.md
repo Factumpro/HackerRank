@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 47
+count of solution: 48
 
 ## Practice:
 ### [Python]
