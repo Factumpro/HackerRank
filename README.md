@@ -196,7 +196,7 @@ count of solution: 50
 |Easy|Solved| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_19.py)
 |Easy|Solved| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_20.py)
 |Easy|Solved| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py)
-|Easy|Solved| [Day 22: Binary Search Trees]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
+|Easy|Solved| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
 |Easy|Unsolved| [Day 23: BST Level-Order Traversal]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
 |Easy|Unsolved| [Day 24: More Linked Lists]()    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
 |Easy|Unsolved| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
