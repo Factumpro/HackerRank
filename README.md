@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 46
+count of solution: 47
 
 ## Practice:
 ### [Python]
@@ -210,7 +210,8 @@ count of solution: 46
 |:--------------:|:----------------:|:--------------|:-------------:|
 |Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
 |Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py)|
-|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/) |
+|Easy|Unsolved| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01.py) |
+|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
