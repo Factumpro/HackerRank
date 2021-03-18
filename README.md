@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 50
+count of solution: 53
 
 ## Practice:
 ### [Python]
@@ -141,79 +141,83 @@ count of solution: 50
 
 ## SQL
 ### Advanced Join
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |  Difficulty   |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
 ### Advanced Select 
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |   Difficulty  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
 ### Aggregation 
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |   Difficulty  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
 ### Alternative Queries 
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |   Difficulty  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
 ### Basic Join 
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |   Difficulty  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/) |
 
 ### Basic Select
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
 |:---------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------:|
-| Solved  |	Easy		| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I)|
-| Solved  |	Easy		| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II)|
+|Solved|Easy| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I.sql)|
+|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
+|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
+|Solved|Easy| [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/SelectAll.sql) |
+|Solved|Easy| [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_ID.sql) |
+|Solved|Easy| [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/COUNTRYCODE.sql) |
 
 ## 30 Days of Code
-|   Difficulty   |   Status  |    Problem    |   Solution    |
+|   Status   |   Difficulty  |    Problem    |   Solution    |
 |:-------------:|:-------------:|:-------------|:---------:|
-|Easy|Solved| [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
-|Easy|Solved| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_01.py)
-|Easy|Solved| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_02.py)
-|Easy|Solved| [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_03.py)
-|Easy|Solved| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_04.py)
-|Easy|Solved| [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_05.py)
-|Easy|Solved| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_06.py)
-|Easy|Solved| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_07.py)
-|Easy|Solved| [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_08.py)
-|Easy|Solved| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_09.py)
-|Easy|Solved| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_10.py)
-|Easy|Solved| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_11.py)
-|Easy|Solved| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_12.py)
-|Easy|Solved| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_13.py)
-|Easy|Solved| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_14.py)
-|Easy|Solved| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_15.py)
-|Easy|Solved| [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_16.py)
-|Easy|Solved| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_17.py)
-|Easy|Solved| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_18.py)
-|Easy|Solved| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_19.py)
-|Easy|Solved| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_20.py)
-|Easy|Solved| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py)
-|Easy|Solved| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
-|Easy|Unsolved| [Day 23: BST Level-Order Traversal]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
-|Easy|Unsolved| [Day 24: More Linked Lists]()    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
-|Easy|Unsolved| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
-|Easy|Unsolved| [Day 26: Nested Logic]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py)
-|Easy|Unsolved| [Day 27: Testing]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py)
-|Easy|Unsolved| [Day 28: RegEx, Patterns, and Intro to Databases]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py)
-|Easy|Unsolved| [Day 29: Bitwise AND]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
+|Solved|Easy| [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py)
+|Solved|Easy| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_01.py)
+|Solved|Easy| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_02.py)
+|Solved|Easy| [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_03.py)
+|Solved|Easy| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_04.py)
+|Solved|Easy| [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_05.py)
+|Solved|Easy| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_06.py)
+|Solved|Easy| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_07.py)
+|Solved|Easy| [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_08.py)
+|Solved|Easy| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_09.py)
+|Solved|Easy| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_10.py)
+|Solved|Easy| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_11.py)
+|Solved|Easy| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_12.py)
+|Solved|Easy| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_13.py)
+|Solved|Easy| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_14.py)
+|Solved|Easy| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_15.py)
+|Solved|Easy| [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_16.py)
+|Solved|Easy| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_17.py)
+|Solved|Easy| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_18.py)
+|Solved|Easy| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_19.py)
+|Solved|Easy| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_20.py)
+|Solved|Easy| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py)
+|Solved|Easy| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
+|Unsolved|Easy| [Day 23: BST Level-Order Traversal]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
+|Unsolved|Easy| [Day 24: More Linked Lists]()    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
+|Unsolved|Easy| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
+|Unsolved|Easy| [Day 26: Nested Logic]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py)
+|Unsolved|Easy| [Day 27: Testing]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py)
+|Unsolved|Easy| [Day 28: RegEx, Patterns, and Intro to Databases]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py)
+|Unsolved|Easy| [Day 29: Bitwise AND]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py)
 
 ## 10 Days of Statistics
-|   Difficulty   |   Status         |    Problem    |   Solution    |
+|   Status   |   Difficulty         |    Problem    |   Solution    |
 |:--------------:|:----------------:|:--------------|:-------------:|
-|Easy|Solved| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_1.py) |
-|Easy|Solved| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_2.py)|
-|Easy|Solved| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_1.py) |
-|Easy|Solved| [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_2.py) |
-|Easy|Solved| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_3.py) |
-|Easy|Unsolved| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
+|Solved|Easy| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_1.py) |
+|Solved|Easy| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_2.py)|
+|Solved|Easy| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_1.py) |
+|Solved|Easy| [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_2.py) |
+|Solved|Easy| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_3.py) |
+|Unsolved|Easy| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
