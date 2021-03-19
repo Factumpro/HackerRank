@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 53
+count of solution: 56
 
 ## Practice:
 ### [Python]
@@ -201,7 +201,7 @@ count of solution: 53
 |Solved|Easy| [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_20.py)
 |Solved|Easy| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py)
 |Solved|Easy| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
-|Unsolved|Easy| [Day 23: BST Level-Order Traversal]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
+|Solved|Easy| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
 |Unsolved|Easy| [Day 24: More Linked Lists]()    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
 |Unsolved|Easy| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
 |Unsolved|Easy| [Day 26: Nested Logic]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py)
@@ -217,7 +217,9 @@ count of solution: 53
 |Solved|Easy| [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_1.py) |
 |Solved|Easy| [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_2.py) |
 |Solved|Easy| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_3.py) |
-|Unsolved|Easy| []() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00.py) |
+|Solved|Easy| [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_02.py) |
+|Solved|Easy| [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_02.py) |
+
 
 
 [Syntax guide for .md](https://guides.github.com/features/mastering-markdown/)
