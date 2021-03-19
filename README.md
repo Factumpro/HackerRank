@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 57
+count of solution: 58
 
 ## Practice:
 ### [Python]
@@ -132,6 +132,7 @@ count of solution: 57
 | Solved	|	Easy		| [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)											| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/count_substring.py)					|
 | Solved	|	Easy		| [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)									| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py)					|
 | Solved    |	Easy		| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)										| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Alignment.py) |
+| Solved  |	Easy		    | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/wrap.py) |
 | Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
 
 ### XML
