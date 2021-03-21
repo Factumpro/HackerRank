@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 62
+count of solution: 63
 
 ## Practice:
 ### [Python]
@@ -134,6 +134,7 @@ count of solution: 62
 | Solved    |	Easy		| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)										| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Alignment.py) |
 | Solved  |	Easy		    | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/wrap.py) |
 | Solved  |	Easy		    | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/DoorMat.py) |
+| Solved  |	Easy		| [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)																			| [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Formatting.py) |
 | Unsolved  |	Easy		| []()																			| [file.py]() |
 
 ### XML
