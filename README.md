@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 63
+count of solution: 71
 
 ## Practice:
 ### [Python]
@@ -119,7 +119,14 @@ count of solution: 63
 ### Sets
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
 |:---------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------:|
-| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+| Solved  |	Easy		| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/introduction.py) |
+| Solved  |	Easy		| [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/add.py) |
+| Solved  |	Easy		| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/remove.py) |
+| Solved  |	Easy		| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/union.py) |
+| Solved  |	Easy		| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/difference.py) |
+| Solved  |	Easy		| [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/symmetric_difference.py) |
+| Solved  |	Easy		| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/intersection.py) |
+| Solved  |	Easy		| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/Mutations.py) |
 
 ### Strings
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
