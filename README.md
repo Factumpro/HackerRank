@@ -5,12 +5,12 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 71
+count of solution: 83
 
 ## Practice:
 ### [Python]
  - [Basic Data Types](./README.md#basic-data-types)
- - [Built-Ins](./README.md#)
+ - [Built-Ins]
  - [Classes]
  - [Closures and Decorators]
  - [Collections]
@@ -24,14 +24,14 @@ count of solution: 71
  - [Regex and Parsing](./README.md#Regex-and-Parsing)
  - [Sets](./README.md#Sets)
  - [Strings](./README.md#Strings)
- - [XML](./README.md#)
+ - [XML]
 
 ### [SQL]
-- [Advanced Join](./README.md#)
-- [Advanced Select](./README.md#)
-- [Aggregation](./README.md#)
-- [Alternative Queries](./README.md#)
-- [Basic Join](./README.md#)
+- [Advanced Join]
+- [Advanced Select]
+- [Aggregation]
+- [Alternative Queries]
+- [Basic Join]
 - [Basic Select](./README.md#Basic-Select)
 
 ## Tutorials (Python):
@@ -179,12 +179,25 @@ count of solution: 71
 ### Basic Select
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
 |:---------:|:-------------:|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------:|
-|Solved|Easy| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I.sql)|
-|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
-|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
-|Solved|Easy| [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/SelectAll.sql) |
-|Solved|Easy| [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_ID.sql) |
-|Solved|Easy| [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/COUNTRYCODE.sql) |
+|Solved|Easy| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I.sql)|
+|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
+|Solved|Easy| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql)|
+|Solved|Easy| [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/SelectAll.sql) |
+|Solved|Easy| [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_ID.sql) |
+|Solved|Easy| [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/COUNTRYCODE.sql) |
+|Solved|Easy| [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_Name.sql) |
+|Solved|Easy| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_01.sql) |
+|Solved|Easy| [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_03.sql) |
+|Solved|Easy| [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_04.sql) |
+|Solved|Easy| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_05.sql) |
+|Solved|Easy| [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_06.sql) |
+|Solved|Easy| [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_07.sql) |
+|Solved|Easy| [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_08.sql) |
+|Solved|Easy| [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_09.sql) |
+|Solved|Easy| [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_10.sql) |
+|Solved|Easy| [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_11.sql) |
+|Solved|Easy| [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [file.sql](https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_12.sql) |
+
 
 ## 30 Days of Code
 |   Status   |   Difficulty  |    Problem    |   Solution    |
