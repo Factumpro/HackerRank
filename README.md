@@ -22,7 +22,7 @@ count of solution: 71
  - [Numpy](./README.md#Numpy)
  - [Python Functionals]
  - [Regex and Parsing](./README.md#Regex-and-Parsing)
- - [Sets]
+ - [Sets](./README.md#Sets)
  - [Strings](./README.md#Strings)
  - [XML](./README.md#)
 
