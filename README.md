@@ -5,12 +5,12 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 83
+count of solution: 85
 
 ## Practice:
 ### [Python]
  - [Basic Data Types](./README.md#basic-data-types)
- - [Built-Ins]
+ - [Built-Ins](./README.md#Built-Ins)
  - [Classes]
  - [Closures and Decorators]
  - [Collections]
@@ -53,7 +53,8 @@ count of solution: 83
 ### Built-Ins
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
 |:---------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| Unsolved  |	Easy		| [NEW](https://www.hackerrank.com/challenges/) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice) |
+| Solved  |	Easy		| [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/eval.py) |
+| Solved  |	Easy		| [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/sort_w_key.py) |
 
 ### Classes
 |	Status  |	Difficulty	|	Problem																												|  Solution																													|    
