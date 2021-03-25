@@ -5,7 +5,7 @@
     <br>This repository contains my solutions to HackerRank challenges
 </p>
 
-count of solution: 85
+count of solution: 86
 
 ## Practice:
 ### [Python]
@@ -228,7 +228,7 @@ count of solution: 85
 |Solved|Easy| [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py)
 |Solved|Easy| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py)
 |Unsolved|Easy| [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)    | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py)
-|Unsolved|Easy| [Day 25: Running Time and Complexity]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
+|Unsolved|Easy| [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py)
 |Unsolved|Easy| [Day 26: Nested Logic]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py)
 |Unsolved|Easy| [Day 27: Testing]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py)
 |Unsolved|Easy| [Day 28: RegEx, Patterns, and Intro to Databases]() | [file.py](https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py)
