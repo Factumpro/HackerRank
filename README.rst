@@ -15,8 +15,8 @@ Practice:
 [Python]
 ~~~~~~~~
 
--  `Basic Data Types <./README.md#basic-data-types>`__
--  `Built-Ins <./README.md#Built-Ins>`__
+-  `Basic Data Types <./README.rst#basic-data-types>`__
+-  `Built-Ins <./README.rst#Built-Ins>`__
 -  [Classes]
 -  [Closures and Decorators]
 -  [Collections]
@@ -25,11 +25,11 @@ Practice:
 -  [Errors and Exceptions]
 -  [Itertools]
 -  [Math]
--  `Numpy <./README.md#Numpy>`__
+-  `Numpy <./README.rst#Numpy>`__
 -  [Python Functionals]
--  `Regex and Parsing <./README.md#Regex-and-Parsing>`__
--  `Sets <./README.md#Sets>`__
--  `Strings <./README.md#Strings>`__
+-  `Regex and Parsing <./README.rst#Regex-and-Parsing>`__
+-  `Sets <./README.rst#Sets>`__
+-  `Strings <./README.rst#Strings>`__
 -  [XML]
 
 [SQL]
@@ -40,13 +40,13 @@ Practice:
 -  [Aggregation]
 -  [Alternative Queries]
 -  [Basic Join]
--  `Basic Select <./README.md#Basic-Select>`__
+-  `Basic Select <./README.rst#Basic-Select>`__
 
 Tutorials (Python):
 -------------------
 
--  `30 Days of Code <./README.md#30-days-of-code>`__
--  `10 Days of Statistics <./README.md#10-days-of-statistics>`__
+-  `30 Days of Code <./README.rst#30-days-of-code>`__
+-  `10 Days of Statistics <./README.rst#10-days-of-statistics>`__
 
 Python
 ------
@@ -441,4 +441,4 @@ Basic Select
 +----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
 
 `Syntax guide for
-.md <https://guides.github.com/features/mastering-markdown/>`__
+.rst <https://docutils.sourceforge.io/rst.html>`__
