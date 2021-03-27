@@ -1,5 +1,6 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-    
+#!/usr/bin/env python3
+
 for i in range(int(input())):
     s = input()
-    print(*[ ''.join( s[::2] ), ''.join( (s[1::2]) ) ])
+    step = 2
+    print(*[''.join(s[:: step]), ''.join((s[1:: step]))])
