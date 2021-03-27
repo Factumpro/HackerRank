@@ -1,27 +1,25 @@
-#!/bin/python3
+#!/usr/bin/env python3
 
-import math
 import os
-import random
 import re
 import sys
-import functools as fun
+import math
+import random
 import operator
+import functools as fun
 
-# Complete the factorial function below.
-def factorial(n):
-    if n == 1:
-        return n
+
+def factorial(Num):
+    if Num == 1:
+        return Num
     else:
-        return n*factorial(n-1)
+        return Num*factorial(Num-1)
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    n = int(input())
-
-    result = factorial(n)
+    Num = int(input())
+    result = factorial(Num)
 
     fptr.write(str(result) + '\n')
-
     fptr.close()
