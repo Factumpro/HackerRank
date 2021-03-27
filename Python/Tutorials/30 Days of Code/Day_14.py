@@ -1,22 +1,16 @@
-''''
- Day 14: Scope
+#!/usr/bin/env python3
 
-''''
 
 class Difference:
     def __init__(self, a):
-        self.__elements = a
-        
-    # Add your code here
-    maximumDifference = 0
-    def computeDifference(self):
-        self.maximumDifference = max(self.__elements) - min(self.__elements)
-# End of Difference class
+        self.elements = a
+        self.difference = 0
 
-_ = input()
-a = [int(e) for e in input().split(' ')]
+    def max_difference(self):
+        self.difference = max(self.elements) - min(self.elements)
+        return self.difference
 
-d = Difference(a)
-d.computeDifference()
-
-print(d.maximumDifference)
+if __name__ == '__main__':
+    arg = list(map(int, input().split(" ")))
+    diff = Difference(arg)
+    print(diff.max_difference())
