@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 i = int(input())
 d = float(input())
 s = str(input())
