@@ -1,27 +1,22 @@
-'''
-Day 16: Exceptions - String to Integer
+#!/usr/bin/env python3
 
-  !!! It's import to understand that the try statement 
-      may have more than one except clause, 
-      and we need to define only ValueError.
+"""
+    Exceptions - String to Integer
+    ------------------------------
 
-  8.3. Handling Exceptions
-  https://docs.python.org/3/tutorial/errors.html
+    The `try` statement may have more than one
+    `except` clause, and we need to define only ValueError.
 
-  From example:
+    https://docs.python.org/3/tutorial/errors.html (8.3. Handling Exceptions)
 
-    except ValueError:
-        print("Could not convert data to an integer.")
-'''
-
-
-#!/bin/python3
+    'ValueError: Could not convert data to an integer.'
+"""
 
 import sys
 
-
-S = input().strip()
-try:
-  print(int(S))
-except ValueError:
-  print("Bad String")
+if __name__ == '__main__':
+    try_str = input().strip()
+    try:
+        print(int(try_str))
+    except ValueError:
+        print("Bad String")
