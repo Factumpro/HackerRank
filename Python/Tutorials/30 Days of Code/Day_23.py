@@ -1,43 +1,52 @@
-'''
-Day 23: BST Level-Order Traversal
+#!/usr/bin/env python3
 
-  https://www.hackerrank.com/challenges/30-binary-trees/problem
-'''
+"""
+    BST Level-Order Traversal
+    -------------------------
+
+"""
 
 import sys
 
+
 class Node:
-    def __init__(self,data):
-        self.right=self.left=None
+    def __init__(self, data):
+        self.right = None
+        self.left = None
         self.data = data
+
+
 class Solution:
-    def insert(self,root,data):
-        if root==None:
+    def insert(self, root, data):
+        if root is None:
             return Node(data)
         else:
-            if data<=root.data:
-                cur=self.insert(root.left,data)
-                root.left=cur
+            if data <= root.data:
+                current = self.insert(root.left, data)
+                root.left = current
             else:
-                cur=self.insert(root.right,data)
-                root.right=cur
+                current = self.insert(root.right, data)
+                root.right = current
+
         return root
-   
-    def levelOrder(self,root):
-        queue = [root] if root else []
-        
+
+    def level_order(self, root):
+        if root is None:
+            queue = []
+        else:
+            queue = [root]
         while queue:
             node = queue.pop()
             print(node.data, end=" ")
-            
-            if node.left: queue.insert(0,node.left)
-            if node.right: queue.insert(0,node.right)
-            
-        
-T=int(input())
-myTree=Solution()
-root=None
-for i in range(T):
-    data=int(input())
-    root=myTree.insert(root,data)
-myTree.levelOrder(root)
+            if node.left:
+                queue.insert(0, node.left)
+            if node.right:
+                queue.insert(0, node.right)
+
+if __name__ == '__main__':
+    bin_tree = Solution()
+    root = None
+    for _ in range(int(input())):
+        data = int(input())
+        root = bin_tree.insert(root, data)
+    bin_tree.level_order(root)
