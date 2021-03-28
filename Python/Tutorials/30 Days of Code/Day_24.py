@@ -1,13 +1,13 @@
-'''
-Day 24: More Linked Lists
+#!/usr/bin/env python3
 
-  https://www.hackerrank.com/challenges/30-linked-list-deletion/problem
-'''
+"""
+    More Linked Lists
+    -----------------
 
-'''
-with dictionary and not sorted (Discussions)
+    Time Complexity: O(n)
 
-def removeDuplicates(self,head):
+    def removeDuplicates(self,head):
+    # Example with dictionary and not sorted (from discussions)
         if head == None:
             return head
         fptr = head.next
@@ -23,55 +23,59 @@ def removeDuplicates(self,head):
             sptr = fptr
             fptr = fptr.next
 
-        return head        
-'''
+        return head
+"""
 
 
 class Node:
-    def __init__(self,data):
+    def __init__(self, data):
         self.data = data
-        self.next = None 
-class Solution: 
-    def insert(self,head,data):
-            p = Node(data)           
-            if head==None:
-                head=p
-            elif head.next==None:
-                head.next=p
-            else:
-                start=head
-                while(start.next!=None):
-                    start=start.next
-                start.next=p
-            return head  
-    def display(self,head):
+        self.next = None
+
+
+class Solution:
+    def insert(self, head, data):
+        noname = Node(data)
+        if head is None:
+            head = noname
+        elif head.next is None:
+            head.next = noname
+        else:
+            start = head
+            while start.next is not None:
+                start = start.next
+            start.next = noname
+
+        return head
+
+    def display(self, head):
         current = head
         while current:
-            print(current.data,end=' ')
+            print(current.data, end=' ')
             current = current.next
 
-    def removeDuplicates(self,head):
-        if head == None:
+    def remove_duplicates(self, head):
+        if head is None:
             return head
         current = head
         head = None
-
-        _lst = list()
+        new_list = []
         while current:
-            _lst.append(current.data)
+            new_list.append(current.data)
             current = current.next
-        _lst=set(_lst)
-        _lst=list(_lst)
-        for i in _lst:
-            data=i
-            head=self.insert(head,data)  
+        new_list = set(new_list)
+        new_list = list(new_list)
+        for i in new_list:
+            data = i
+            head = self.insert(head, data)
+
         return head
 
-T=int(input())
-mylist= Solution()
-head=None
-for i in range(T):
-    data=int(input())
-    head=mylist.insert(head,data)    
-head=mylist.removeDuplicates(head)
-mylist.display(head); 
+if __name__ == '__main__':
+    linked_list = Solution()
+    root = None
+    for _ in range(int(input())):
+        data = int(input())
+        head = linked_list.insert(head, data)
+    head = linked_list.remove_duplicates(head)
+    linked_list.display(head)
