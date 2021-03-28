@@ -1,44 +1,47 @@
-''''
-Day 18: Queues and Stacks
+#!/usr/bin/env python3
 
-''''
+"""
+    Queues and Stacks
+    -----------------
 
-''''
-As list type
+    In Python Stack as LifoQueue and Queue as Queue
+
+    Second solution (list type)
+    ---------------------------
+    class Solution:
+        def __init__(self):
+            self.lifo_ = []
+            self.fifo_ = []
+
+        def push_character(self, box):
+            self.lifo_.append(box)
+
+        def enqueue_character(self, box):
+            self.fifo_.append(box)
+
+        def pop_character(self):
+            return self.lifo_.pop(-1)
+
+        def dequeue_character(self):
+            return self.fifo_.pop(0)
+"""
+
+from queue import Queue, LifoQueue
+
 
 class Solution:
     def __init__(self):
-        self._stack1 = []
-        self._queue1 = []
-    def pushCharacter(self, box):      
-        self._stack1.append(box)
-    def enqueueCharacter(self, box):
-        self._queue1.append(box)
-    def popCharacter(self):
-        return self._stack1.pop(-1)   
-    def dequeueCharacter(self):
-        return self._queue1.pop(0)
-''''
+        self.lifo_ = LifoQueue()
+        self.fifo_ = Queue()
 
-''''
-With the library queue 
-(In Python Stack as LifoQueue and Queue as Queue)
-''''
-from queue import Queue, LifoQueue
+    def push_character(self, box):
+        self.lifo_.put(box)
 
-class Solution:
-# get()
-# put()
-# empty()
-    def __init__(self):        
-        self._stack1 = LifoQueue()
-        self._queue1 = Queue()
-    # Write your code here
-    def pushCharacter(self, box):
-        self._stack1.put(box)
-    def enqueueCharacter(self, box):
-        self._queue1.put(box)
-    def popCharacter(self):
-        return self._stack1.get()
-    def dequeueCharacter(self):
-        return self._queue1.get()
+    def enqueue_character(self, box):
+        self.fifo_.put(box)
+
+    def pop_character(self):
+        return self.lifo_.get()
+
+    def dequeue_character(self):
+        return self.fifo_.get()
