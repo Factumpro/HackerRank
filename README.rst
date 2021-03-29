@@ -105,7 +105,7 @@ Collections
 +------------+--------------+----------------------------------------------------+-----------------------------------------------------------------------------------+
 | Status     | Difficulty   | Problem                                            | Solution                                                                          |
 +============+==============+====================================================+===================================================================================+
-| Unsolved   | Easy         | `NEW <https://www.hackerrank.com/challenges/>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice>`__   |
+| Solved   | Easy         | `DefaultDict Tutorial <https://www.hackerrank.com/challenges/defaultdict-tutorial/problem>`__   | `file.py <Python/Practice/Collections/defaultdict.py>`__   |
 +------------+--------------+----------------------------------------------------+-----------------------------------------------------------------------------------+
 
 Date and Time
