@@ -19,7 +19,7 @@ Practice:
 -  `Built-Ins <./README.rst#Built-Ins>`__
 -  [Classes]
 -  [Closures and Decorators]
--  [Collections] <./README.rst#Collections>`__
+-  `Collections <./README.rst#Collections>`__
 -  [Date and Time]
 -  [Debugging]
 -  [Errors and Exceptions]
