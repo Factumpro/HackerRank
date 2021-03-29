@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 86
+count of solution: 87
 
 Practice:
 ---------
@@ -19,7 +19,7 @@ Practice:
 -  `Built-Ins <./README.rst#Built-Ins>`__
 -  [Classes]
 -  [Closures and Decorators]
--  [Collections]
+-  [Collections] <./README.rst#Collections>`__
 -  [Date and Time]
 -  [Debugging]
 -  [Errors and Exceptions]
@@ -102,11 +102,11 @@ Closures and Decorators
 Collections
 ~~~~~~~~~~~
 
-+------------+--------------+----------------------------------------------------+-----------------------------------------------------------------------------------+
-| Status     | Difficulty   | Problem                                            | Solution                                                                          |
-+============+==============+====================================================+===================================================================================+
-| Solved   | Easy         | `DefaultDict Tutorial <https://www.hackerrank.com/challenges/defaultdict-tutorial/problem>`__   | `file.py <Python/Practice/Collections/defaultdict.py>`__   |
-+------------+--------------+----------------------------------------------------+-----------------------------------------------------------------------------------+
++------------+--------------+-------------------------------------------------------------------------------------------------+------------------------------------------------------------+
+| Status     | Difficulty   | Problem                                                                                         | Solution                                                   |
++============+==============+=================================================================================================+============================================================+
+| Solved     | Easy         | `DefaultDict Tutorial <https://www.hackerrank.com/challenges/defaultdict-tutorial/problem>`__   | `file.py <Python/Practice/Collections/defaultdict.py>`__   |
++------------+--------------+-------------------------------------------------------------------------------------------------+------------------------------------------------------------+
 
 Date and Time
 ~~~~~~~~~~~~~
