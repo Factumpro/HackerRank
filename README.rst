@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 87
+count of solution: 91
 
 Practice:
 ---------
@@ -400,17 +400,17 @@ Basic Select
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 | Solved     | Easy         | `Day 23: BST Level-Order Traversal <https://www.hackerrank.com/challenges/30-binary-trees/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 24: More Linked Lists <https://www.hackerrank.com/challenges/30-linked-list-deletion/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py>`__   |
+| Solved     | Easy         | `Day 24: More Linked Lists <https://www.hackerrank.com/challenges/30-linked-list-deletion/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 25: Running Time and Complexity <https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem>`__       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py>`__   |
+| Solved     | Easy         | `Day 25: Running Time and Complexity <https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem>`__       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 26: Nested Logic <>`__                                                                                                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py>`__   |
+| Solved     | Easy         | `Day 26: Nested Logic <https://www.hackerrank.com/challenges/30-nested-logic/problem>`__                                     | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 27: Testing <>`__                                                                                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py>`__   |
+| Solved     | Easy         | `Day 27: Testing <https://www.hackerrank.com/challenges/30-testing/problem>`__                                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 28: RegEx, Patterns, and Intro to Databases <>`__                                                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py>`__   |
+| Solved     | Easy         | `Day 28: RegEx, Patterns, and Intro to Databases <https://www.hackerrank.com/challenges/30-regex-patterns/problem>`__        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `Day 29: Bitwise AND <>`__                                                                                                   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py>`__   |
+| Solved     | Easy         | `Day 29: Bitwise AND <https://www.hackerrank.com/challenges/30-bitwise-and/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py>`__   |
 +------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
 10 Days of Statistics
