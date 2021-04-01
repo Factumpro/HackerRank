@@ -46,29 +46,29 @@ Python
 ~~~~~~
 -  `Basic Data Types <./README.rst#basic-data-types>`__
 -  `Built-Ins <./README.rst#Built-Ins>`__
+-  `Collections <./README.rst#Collections>`__
+-  `Numpy <./README.rst#Numpy>`__
+-  `Regex and Parsing <./README.rst#Regex-and-Parsing>`__
+-  `Sets <./README.rst#Sets>`__
+-  `Strings <./README.rst#Strings>`__
 .. this: -  `Classes
 .. this: -  `Closures and Decorators
--  `Collections <./README.rst#Collections>`__
 .. this: -  `Date and Time
 .. this: -  `Debugging
 .. this: -  `Errors and Exceptions
 .. this: -  `Itertools
 .. this: -  `Math
--  `Numpy <./README.rst#Numpy>`__
 .. this: -  `Python Functionals
--  `Regex and Parsing <./README.rst#Regex-and-Parsing>`__
--  `Sets <./README.rst#Sets>`__
--  `Strings <./README.rst#Strings>`__
 .. this: -  `XML
 
 SQL
 ~~~
+-  `Aggregation <./README.rst#Aggregation>`__
+-  `Basic Select <./README.rst#Basic-Select>`__
 .. this: -  `Advanced Join
 .. this: -  `Advanced Select
--  `Aggregation <./README.rst#Aggregation>`__
 .. this: -  `Alternative Queries
 .. this: -  `Basic Join
--  `Basic Select <./README.rst#Basic-Select>`__
 
 Tutorials (Python):
 -------------------
