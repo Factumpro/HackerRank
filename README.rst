@@ -314,11 +314,11 @@ Aggregation
    * - Solved
      - Easy
      - `Revising Aggregations - Averages <https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/average.sql>`_
    * - Solved
      - Easy
      - `Average Population <https://www.hackerrank.com/challenges/average-population/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/round_avg.sql>`_
    * - Solved
      - Easy
      - `Japan Population <https://www.hackerrank.com/challenges/japan-population/problem>`_
