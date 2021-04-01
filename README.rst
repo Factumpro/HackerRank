@@ -72,8 +72,12 @@ SQL
 
 Tutorials (Python):
 -------------------
--  `30 Days of Code <./README.rst#30-days-of-code>`__
--  `10 Days of Statistics <./README.rst#10-days-of-statistics>`__
+`30 Days of Code <./README.rst#30-days-of-code>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`10 Days of Statistics <./README.rst#10-days-of-statistics>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. this:-  `30 Days of Code <./README.rst#30-days-of-code>`__
+.. this:-  `10 Days of Statistics <./README.rst#10-days-of-statistics>`__
 
 Algorithms
 ----------
