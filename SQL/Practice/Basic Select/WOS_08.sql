@@ -6,6 +6,5 @@ WHERE
     city 
         REGEXP '^[aeiou]' 
     AND 
-
     city 
         REGEXP '[aeiou]$'
