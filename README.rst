@@ -12,6 +12,24 @@ count of solution: 91
 Practice:
 ---------
 
+[Algorithms]
+~~~~~~~~~~~~
+
+-  `Warmup <./README.rst#warmup>`__
+-  `Implementation
+-  `Strings
+-  `Sorting
+-  `Search
+-  `Graph Theory
+-  `Greedy
+-  `Dynamic Programming
+-  `Constructive Algorithms
+-  `Bit Manipulation
+-  `Recursion
+-  `Game Theory
+-  `NP Complete
+-  `Debugging
+
 [Python]
 ~~~~~~~~
 
@@ -47,6 +65,19 @@ Tutorials (Python):
 
 -  `30 Days of Code <./README.rst#30-days-of-code>`__
 -  `10 Days of Statistics <./README.rst#10-days-of-statistics>`__
+
+
+Algorithms
+----------
+
+Warmup
+~~~~~~
+
++----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| Status   | Difficulty   | Problem                                                                                                              | Solution                                                                                                                      |
++==========+==============+======================================================================================================================+===============================================================================================================================+
+| Solved   | Easy         | `Solve Me First <https://www.hackerrank.com/challenges/solve-me-first/problem>`__                                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Algorithms/Warmup/solve_me_first.py>`__   				 |
++----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 
 Python
 ------
