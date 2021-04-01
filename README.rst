@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 96
+count of solution: 101
 
 Practice:
 ---------
@@ -70,7 +70,7 @@ Practice:
 
 -  [Advanced Join]
 -  [Advanced Select]
--  [Aggregation]
+-  `Aggregation <./README.rst#Aggregation>`__
 -  [Alternative Queries]
 -  [Basic Join]
 -  `Basic Select <./README.rst#Basic-Select>`__
@@ -323,14 +323,22 @@ Advanced Select
 | Unsolved   | Easy         | `NEW <https://www.hackerrank.com/challenges/>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`__   |
 +------------+--------------+----------------------------------------------------+------------------------------------------------------------------------------------------------+
 
-Aggregation
-~~~~~~~~~~~
+.. list-table:: **Agregation**
+   :widths: 10 10 60 20
+   :header-rows: 1
 
-+------------+--------------+----------------------------------------------------+------------------------------------------------------------------------------------------------+
-| Status     | Difficulty   | Problem                                            | Solution                                                                                       |
-+============+==============+====================================================+================================================================================================+
-| Unsolved   | Easy         | `NEW <https://www.hackerrank.com/challenges/>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`__   |
-+------------+--------------+----------------------------------------------------+------------------------------------------------------------------------------------------------+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `Revising Aggregations - Averages <https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+   * - Solved
+     - Easy
+     - `Average Population <https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
 
 Alternative Queries
 ~~~~~~~~~~~~~~~~~~~
