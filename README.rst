@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-**count of solution:** 101
+count of solution: 101
 
 Practice:
 ---------
@@ -86,6 +86,7 @@ Algorithms
 
 Warmup
 ~~~~~~
+
 .. list-table:: **Warmup**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -108,6 +109,7 @@ Python
 
 Basic Data Types
 ~~~~~~~~~~~~~~~~
+
 .. list-table:: **Basic Data Types**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -143,6 +145,7 @@ Basic Data Types
 
 Built-Ins
 ~~~~~~~~~
+
 .. list-table:: **Built-Ins**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -168,6 +171,7 @@ Closures and Decorators
 
 Collections
 ~~~~~~~~~~~
+
 .. list-table:: **Collections**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -198,6 +202,7 @@ Math
 
 Numpy
 ~~~~~
+
 .. list-table:: **Numpy**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -228,86 +233,15 @@ Python Functionals
 
 Regex and Parsing
 ~~~~~~~~~~~~~~~~~
-.. list-table:: **Regex and Parsing**
-   :widths: 10 10 60 20
-   :header-rows: 1
-
-   * - Status
-     - Difficulty
-     - Problem
-     - Solution
-	* - Solved
-     - Easy
-     - ` <>`_
-	  - `file.py <>`_
-  
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                                                                                                  | Solution                                                                                                                                   |
-+==========+==============+==========================================================================================================================================================+============================================================================================================================================+
-| Solved   | Easy         | `Validating UID <https://www.hackerrank.com/challenges/validating-uid/problem>`__                                                                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Validating_UID.py>`__                    |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `HTML Parser - Part 2 <https://www.hackerrank.com/challenges/html-parser-part-2/problem>`__                                                              | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/HTMLParser_part2.py>`__                  |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Detect HTML Tags, Attributes and Attribute Values <https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Detect_HTML_Tags_Attr_AttValues.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
 
 Sets
 ~~~~
 
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                                                                            | Solution                                                                                                       |
-+==========+==============+====================================================================================================================================+================================================================================================================+
-| Solved   | Easy         | `Introduction to Sets <https://www.hackerrank.com/challenges/py-introduction-to-sets/problem>`__                                   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/introduction.py>`__           |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .add() <https://www.hackerrank.com/challenges/py-set-add/problem>`__                                                          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/add.py>`__                    |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .discard(), .remove() & .pop() <https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem>`__                   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/remove.py>`__                 |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .union() Operation <https://www.hackerrank.com/challenges/py-set-union/problem>`__                                            | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/union.py>`__                  |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .difference() Operation <https://www.hackerrank.com/challenges/py-set-difference-operation/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/difference.py>`__             |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .symmetric\_difference() Operation <https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/symmetric_difference.py>`__   |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set .intersection() Operation <https://www.hackerrank.com/challenges/py-set-intersection-operation/problem>`__                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/intersection.py>`__           |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Set Mutations <https://www.hackerrank.com/challenges/py-set-mutations/problem>`__                                                 | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/Mutations.py>`__              |
-+----------+--------------+------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-
 Strings
 ~~~~~~~
 
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Status     | Difficulty   | Problem                                                                                                  | Solution                                                                                                     |
-+============+==============+==========================================================================================================+==============================================================================================================+
-| Solved     | Easy         | `Capitalize! <https://www.hackerrank.com/challenges/capitalize/problem>`__                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_Capitalize.py>`__   |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `sWAP cASE <https://www.hackerrank.com/challenges/swap-case/problem>`__                                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/sWAP_cASE.py>`__         |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `String Split and Join <https://www.hackerrank.com/challenges/python-string-split-and-join/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/join_split.py>`__        |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `What's Your Name? <https://www.hackerrank.com/challenges/whats-your-name/problem>`__                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/WYN.py>`__               |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Mutations <https://www.hackerrank.com/challenges/python-mutations/problem>`__                           | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str2list.py>`__          |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Find a string <https://www.hackerrank.com/challenges/find-a-string/problem>`__                          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/count_substring.py>`__   |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `String Validators <https://www.hackerrank.com/challenges/string-validators/problem>`__                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/str_Validators.py>`__    |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Text Alignment <https://www.hackerrank.com/challenges/text-alignment/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Alignment.py>`__         |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Text Wrap <https://www.hackerrank.com/challenges/text-wrap/problem>`__                                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/wrap.py>`__              |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Designer Door Mat <https://www.hackerrank.com/challenges/designer-door-mat/problem>`__                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/DoorMat.py>`__           |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `String Formatting <https://www.hackerrank.com/challenges/python-string-formatting/problem>`__           | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Formatting.py>`__        |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | ` <>`__                                                                                                  | `file.py <>`__                                                                                               |
-+------------+--------------+----------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-
 XML
 ~~~
-
 
 SQL
 ---
@@ -315,14 +249,12 @@ SQL
 Advanced Join
 ~~~~~~~~~~~~~
 
-
 Advanced Select
 ~~~~~~~~~~~~~~~
 
-
-
 Aggregation
 ~~~~~~~~~~~
+
 .. list-table:: **Agregation**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -355,155 +287,11 @@ Aggregation
 Alternative Queries
 ~~~~~~~~~~~~~~~~~~~
 
-
-
 Basic Join
 ~~~~~~~~~~
 
-
-
 Basic Select
 ~~~~~~~~~~~~
-
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                                                             | Solution                                                                                                       |
-+==========+==============+=====================================================================================================================+================================================================================================================+
-| Solved   | Easy         | `Revising the Select Query I <https://www.hackerrank.com/challenges/revising-the-select-query/problem>`__           | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_I.sql>`__      |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Revising the Select Query II <https://www.hackerrank.com/challenges/revising-the-select-query-2/problem>`__        | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql>`__     |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Revising the Select Query II <https://www.hackerrank.com/challenges/revising-the-select-query-2/problem>`__        | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_II.sql>`__     |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Select All <https://www.hackerrank.com/challenges/select-all-sql/problem>`__                                       | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/SelectAll.sql>`__     |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Select By ID <https://www.hackerrank.com/challenges/select-by-id/problem>`__                                       | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_ID.sql>`__     |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Japanese Cities' Attributes <https://www.hackerrank.com/challenges/japanese-cities-attributes/problem>`__          | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/COUNTRYCODE.sql>`__   |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Japanese Cities' Names <https://www.hackerrank.com/challenges/japanese-cities-name/problem>`__                     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/Select_Name.sql>`__   |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 1 <https://www.hackerrank.com/challenges/weather-observation-station-1/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_01.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 3 <https://www.hackerrank.com/challenges/weather-observation-station-3/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_03.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 4 <https://www.hackerrank.com/challenges/weather-observation-station-4/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_04.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 5 <https://www.hackerrank.com/challenges/weather-observation-station-5/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_05.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 6 <https://www.hackerrank.com/challenges/weather-observation-station-6/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_06.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 7 <https://www.hackerrank.com/challenges/weather-observation-station-7/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_07.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 8 <https://www.hackerrank.com/challenges/weather-observation-station-8/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_08.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 9 <https://www.hackerrank.com/challenges/weather-observation-station-9/problem>`__     | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_09.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 10 <https://www.hackerrank.com/challenges/weather-observation-station-10/problem>`__   | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_10.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 11 <https://www.hackerrank.com/challenges/weather-observation-station-11/problem>`__   | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_11.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Weather Observation Station 12 <https://www.hackerrank.com/challenges/weather-observation-station-12/problem>`__   | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_12.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Higher Than 75 Marks <https://www.hackerrank.com/challenges/more-than-75-marks/problem>`__                         | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/substr.sql>`__        |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Employee Names <https://www.hackerrank.com/challenges/name-of-employees/problem>`__                                | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/order_by_asc.sql>`__  |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`__                           | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`__     |
-+----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
-
-30 Days of Code
----------------
-
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Status     | Difficulty   | Problem                                                                                                                      | Solution                                                                                                           |
-+============+==============+==============================================================================================================================+====================================================================================================================+
-| Solved     | Easy         | `Day 0: Hello, World <https://www.hackerrank.com/challenges/30-hello-world/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_0.py>`__    |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 1: Data Types <https://www.hackerrank.com/challenges/30-data-types/problem>`__                                          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_01.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 2: Operators <https://www.hackerrank.com/challenges/30-operators/problem>`__                                            | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_02.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 3: Intro to Conditional Statements <https://www.hackerrank.com/challenges/30-conditional-statements/problem>`__         | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_03.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 4: Class vs. Instance <https://www.hackerrank.com/challenges/30-class-vs-instance/problem>`__                           | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_04.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 5: Loops <https://www.hackerrank.com/challenges/30-loops/problem>`__                                                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_05.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 6: Let's Review <https://www.hackerrank.com/challenges/30-review-loop/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_06.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 7: Arrays <https://www.hackerrank.com/challenges/30-arrays/problem>`__                                                  | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_07.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 8: Dictionaries and Maps <https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem>`__                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_08.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 9: Recursion 3 <https://www.hackerrank.com/challenges/30-recursion/problem>`__                                          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_09.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 10: Binary Numbers <https://www.hackerrank.com/challenges/30-binary-numbers/problem>`__                                 | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_10.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 11: 2D Arrays <https://www.hackerrank.com/challenges/30-2d-arrays/problem>`__                                           | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_11.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 12: Inheritance <https://www.hackerrank.com/challenges/30-inheritance/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_12.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 13: Abstract Classes <https://www.hackerrank.com/challenges/30-abstract-classes/problem>`__                             | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_13.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 14: Scope <https://www.hackerrank.com/challenges/30-scope/problem>`__                                                   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_14.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 15: Linked List <https://www.hackerrank.com/challenges/30-linked-list/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_15.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 16: Exceptions - String to Integer <https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_16.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 17: More Exceptions <https://www.hackerrank.com/challenges/30-more-exceptions/problem>`__                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_17.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 18: Queues and Stacks <https://www.hackerrank.com/challenges/30-queues-stacks/problem>`__                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_18.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 19: Interfaces <https://www.hackerrank.com/challenges/30-interfaces/problem>`__                                         | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_19.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 20: Sorting <https://www.hackerrank.com/challenges/30-sorting/problem>`__                                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_20.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 21: Generics <https://www.hackerrank.com/challenges/30-generics/problem>`__                                             | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_21.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 22: Binary Search Trees <https://www.hackerrank.com/challenges/30-binary-search-trees/problem>`__                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_22.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 23: BST Level-Order Traversal <https://www.hackerrank.com/challenges/30-binary-trees/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_23.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 24: More Linked Lists <https://www.hackerrank.com/challenges/30-linked-list-deletion/problem>`__                        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_24.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 25: Running Time and Complexity <https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem>`__       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_25.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 26: Nested Logic <https://www.hackerrank.com/challenges/30-nested-logic/problem>`__                                     | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_26.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 27: Testing <https://www.hackerrank.com/challenges/30-testing/problem>`__                                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_27.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 28: RegEx, Patterns, and Intro to Databases <https://www.hackerrank.com/challenges/30-regex-patterns/problem>`__        | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_28.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Day 29: Bitwise AND <https://www.hackerrank.com/challenges/30-bitwise-and/problem>`__                                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-
-10 Days of Statistics
----------------------
-
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                                                  | Solution                                                                                                                   |
-+==========+==============+==========================================================================================================+============================================================================================================================+
-| Solved   | Easy         | `Day 0: Mean, Median, and Mode <https://www.hackerrank.com/challenges/s10-basic-statistics/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_1.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 0: Weighted Mean <https://www.hackerrank.com/challenges/s10-weighted-mean/problem>`__               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_00_2.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 1: Quartiles <https://www.hackerrank.com/challenges/s10-quartiles/problem>`__                       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_1.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 1: Standard Deviation <https://www.hackerrank.com/challenges/s10-standard-deviation/problem>`__     | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_2.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 1: Interquartile Range <https://www.hackerrank.com/challenges/s10-interquartile-range/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_01_3.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 2: Basic Probability <https://www.hackerrank.com/challenges/s10-mcq-1/problem>`__                   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_02.py>`__     |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 2: Compound Event Probability <https://www.hackerrank.com/challenges/s10-mcq-3/problem>`__          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/10%20Days%20of%20Statistics/Day_02.py>`__     |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 3: Cards of the Same Suit <https://www.hackerrank.com/challenges/s10-mcq-5/problem>`__              | `file.py <>`__                                                                                                             |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 3: Conditional Probability <https://www.hackerrank.com/challenges/s10-mcq-4/problem>`__             | `file.py <>`__                                                                                                             |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Day 3: Drawing Marbles <https://www.hackerrank.com/challenges/s10-mcq-6/problem>`__                     | `file.py <>`__                                                                                                             |
-+----------+--------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
 
 `Syntax guide for
 .rst <https://docutils.sourceforge.io/rst.html>`__
