@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 101
+**count of solution:** 101
 
 Practice:
 ---------
@@ -143,24 +143,28 @@ Basic Data Types
 
 Built-Ins
 ~~~~~~~~~
+.. list-table:: **Built-Ins**
+   :widths: 10 10 60 20
+   :header-rows: 1
 
-+----------+--------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                             | Solution                                                                                                  |
-+==========+==============+=====================================================================================+===========================================================================================================+
-| Solved   | Easy         | `Python Evaluation <https://www.hackerrank.com/challenges/python-eval/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/eval.py>`__         |
-+----------+--------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Athlete Sort <https://www.hackerrank.com/challenges/python-sort-sort/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/sort_w_key.py>`__   |
-+----------+--------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `Python Evaluation <https://www.hackerrank.com/challenges/python-eval/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/eval.py>`_
+	* - Solved
+     - Easy
+     - `Athlete Sort <https://www.hackerrank.com/challenges/python-sort-sort/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/sort_w_key.py>`_
 
 Classes
 ~~~~~~~
 
-
-
 Closures and Decorators
 ~~~~~~~~~~~~~~~~~~~~~~~
-
-
 
 Collections
 ~~~~~~~~~~~
@@ -180,47 +184,63 @@ Collections
 Date and Time
 ~~~~~~~~~~~~~
 
-
 Debugging
 ~~~~~~~~~
-
 
 Errors and Exceptions
 ~~~~~~~~~~~~~~~~~~~~~
 
-
 Itertools
 ~~~~~~~~~
-
 
 Math
 ~~~~
 
-
 Numpy
 ~~~~~
+.. list-table:: **Numpy**
+   :widths: 10 10 60 20
+   :header-rows: 1
 
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Status     | Difficulty   | Problem                                                                                  | Solution                                                                                                 |
-+============+==============+==========================================================================================+==========================================================================================================+
-| Solved     | Easy         | `Linear Algebra <https://www.hackerrank.com/challenges/np-linear-algebra/problem>`__     | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py>`__   |
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Dot and Cross <https://www.hackerrank.com/challenges/np-dot-and-cross/problem>`__       | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py>`__       |
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Inner and Outer <https://www.hackerrank.com/challenges/np-inner-and-outer/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py>`__     |
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Solved     | Easy         | `Polynomials <https://www.hackerrank.com/challenges/np-polynomials/problem>`__           | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py>`__     |
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
-| Unsolved   | Easy         | `NEW <https://www.hackerrank.com/challenges/>`__                                         | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice>`__                          |
-+------------+--------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+	* - Solved
+     - Easy
+     - ` <Linear Algebra <https://www.hackerrank.com/challenges/np-linear-algebra/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/LinearAlgebra.py>`_
+	* - Solved
+     - Easy
+     - `Dot and Cross <https://www.hackerrank.com/challenges/np-dot-and-cross/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Dot_Cross.py>`_
+	* - Solved
+     - Easy
+     - `Inner and Outer <https://www.hackerrank.com/challenges/np-inner-and-outer/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Inner_Outer.py>`_
+	* - Solved
+     - Easy
+     - `Polynomials <https://www.hackerrank.com/challenges/np-polynomials/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py>`_
 
 Python Functionals
 ~~~~~~~~~~~~~~~~~~
 
-
 Regex and Parsing
 ~~~~~~~~~~~~~~~~~
+.. list-table:: **Regex and Parsing**
+   :widths: 10 10 60 20
+   :header-rows: 1
 
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+	* - Solved
+     - Easy
+     - ` <>`_
+	  - `file.py <>`_
+  
 +----------+--------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
 | Status   | Difficulty   | Problem                                                                                                                                                  | Solution                                                                                                                                   |
 +==========+==============+==========================================================================================================================================================+============================================================================================================================================+
