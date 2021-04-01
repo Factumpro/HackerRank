@@ -323,7 +323,7 @@ Advanced Select
 | Unsolved   | Easy         | `NEW <https://www.hackerrank.com/challenges/>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`__   |
 +------------+--------------+----------------------------------------------------+------------------------------------------------------------------------------------------------+
 
-.. list-table:: **Agregation**
+.. list-table:: **Aggregation**
    :widths: 10 10 60 20
    :header-rows: 1
 
