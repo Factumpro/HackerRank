@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 93
+count of solution: 96
 
 Practice:
 ---------
@@ -391,6 +391,12 @@ Basic Select
 | Solved   | Easy         | `Weather Observation Station 11 <https://www.hackerrank.com/challenges/weather-observation-station-11/problem>`__   | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_11.sql>`__        |
 +----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
 | Solved   | Easy         | `Weather Observation Station 12 <https://www.hackerrank.com/challenges/weather-observation-station-12/problem>`__   | `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/WOS_12.sql>`__        |
++----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Solved   | Easy         | `Higher Than 75 Marks <https://www.hackerrank.com/challenges/more-than-75-marks/problem>`__   						| `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/substr.sql>`__        |
++----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Solved   | Easy         | `Employee Names <https://www.hackerrank.com/challenges/name-of-employees/problem>`__   								| `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/order_by_asc.sql>`__  |
++----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| Solved   | Easy         | `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`__   						| `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`__     |
 +----------+--------------+---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------+
 
 30 Days of Code
