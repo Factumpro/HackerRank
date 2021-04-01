@@ -1,1 +1,6 @@
-select * from city where id = 1661
+SELECT 
+    * 
+FROM 
+    city 
+WHERE 
+    id = 1661
