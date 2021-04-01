@@ -83,6 +83,7 @@ Algorithms
 ----------
 Warmup
 ~~~~~~
+
 .. list-table:: **Warmup**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -104,6 +105,7 @@ Python
 ------
 Basic Data Types
 ~~~~~~~~~~~~~~~~
+
 .. list-table:: **Basic Data Types**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -139,6 +141,7 @@ Basic Data Types
 
 Built-Ins
 ~~~~~~~~~
+
 .. list-table:: **Built-Ins**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -158,6 +161,7 @@ Built-Ins
 
 Collections
 ~~~~~~~~~~~
+
 .. list-table:: **Collections**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -173,6 +177,7 @@ Collections
 
 Numpy
 ~~~~~
+
 .. list-table:: **Numpy**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -200,6 +205,7 @@ Numpy
 
 Regex and Parsing
 ~~~~~~~~~~~~~~~~~
+
 .. list-table:: **Regex and Parsing**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -223,6 +229,7 @@ Regex and Parsing
 
 Sets
 ~~~~
+
 .. list-table:: **Sets**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -266,6 +273,7 @@ Sets
      
 Strings
 ~~~~~~~
+
 .. list-table:: **Strings**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -323,6 +331,7 @@ SQL
 ---
 Aggregation
 ~~~~~~~~~~~
+
 .. list-table:: **Agregation**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -354,6 +363,7 @@ Aggregation
 
 Basic Select
 ~~~~~~~~~~~~
+
 .. list-table:: **Basic Select**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -449,6 +459,7 @@ Basic Select
 
 30 Days of Code
 ---------------
+
 .. list-table:: **30 Days of Code**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -580,6 +591,7 @@ Basic Select
 
 10 Days of Statistics
 ---------------------
+
 .. list-table:: **10 Days of Statistics**
    :widths: 10 10 60 20
    :header-rows: 1
