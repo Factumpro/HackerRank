@@ -14,60 +14,60 @@ Practice:
 Algorithms
 ~~~~~~~~~~
 -  `Warmup <./README.rst#warmup>`__
--  `Implementation
--  `Strings
--  `Sorting
--  `Search
--  `Graph Theory
--  `Greedy
--  `Dynamic Programming
--  `Constructive Algorithms
--  `Bit Manipulation
--  `Recursion
--  `Game Theory
--  `NP Complete
--  `Debugging
+.. this: -  `Implementation
+.. this: -  `Strings
+.. this: -  `Sorting
+.. this: -  `Search
+.. this: -  `Graph Theory
+.. this: -  `Greedy
+.. this: -  `Dynamic Programming
+.. this: -  `Constructive Algorithms
+.. this: -  `Bit Manipulation
+.. this: -  `Recursion
+.. this: -  `Game Theory
+.. this: -  `NP Complete
+.. this: -  `Debugging
 
-Data Structures
-~~~~~~~~~~~~~~~
--  `Arrays
--  `Linked Lists
--  `Trees
--  `Balanced Trees
--  `Stacks
--  `Queues
--  `Heap
--  `Disjoint Set
--  `Multiple Choice
--  `Trie
--  `Advanced
+.. this: Data Structures
+.. this: ~~~~~~~~~~~~~~~
+.. this: -  `Arrays
+.. this: -  `Linked Lists
+.. this: -  `Trees
+.. this: -  `Balanced Trees
+.. this: -  `Stacks
+.. this: -  `Queues
+.. this: -  `Heap
+.. this: -  `Disjoint Set
+.. this: -  `Multiple Choice
+.. this: -  `Trie
+.. this: -  `Advanced
 
 Python
 ~~~~~~
 -  `Basic Data Types <./README.rst#basic-data-types>`__
 -  `Built-Ins <./README.rst#Built-Ins>`__
--  `Classes
--  `Closures and Decorators
+.. this: -  `Classes
+.. this: -  `Closures and Decorators
 -  `Collections <./README.rst#Collections>`__
--  `Date and Time
--  `Debugging
--  `Errors and Exceptions
--  `Itertools
--  `Math
+.. this: -  `Date and Time
+.. this: -  `Debugging
+.. this: -  `Errors and Exceptions
+.. this: -  `Itertools
+.. this: -  `Math
 -  `Numpy <./README.rst#Numpy>`__
--  `Python Functionals
+.. this: -  `Python Functionals
 -  `Regex and Parsing <./README.rst#Regex-and-Parsing>`__
 -  `Sets <./README.rst#Sets>`__
 -  `Strings <./README.rst#Strings>`__
--  `XML
+.. this: -  `XML
 
 SQL
 ~~~
--  `Advanced Join
--  `Advanced Select
+.. this: -  `Advanced Join
+.. this: -  `Advanced Select
 -  `Aggregation <./README.rst#Aggregation>`__
--  `Alternative Queries
--  `Basic Join
+.. this: -  `Alternative Queries
+.. this: -  `Basic Join
 -  `Basic Select <./README.rst#Basic-Select>`__
 
 Tutorials (Python):
