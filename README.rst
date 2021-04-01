@@ -108,22 +108,38 @@ Python
 
 Basic Data Types
 ~~~~~~~~~~~~~~~~
+.. list-table:: **Basic Data Types**
+   :widths: 10 10 60 20
+   :header-rows: 1
 
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Status   | Difficulty   | Problem                                                                                                              | Solution                                                                                                                      |
-+==========+==============+======================================================================================================================+===============================================================================================================================+
-| Solved   | Easy         | `List Comprehensions <https://www.hackerrank.com/challenges/list-comprehensions/problem>`__                          | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_comprehensions.py>`__   |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Find the Runner-Up Score! <https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem>`__   | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/runner_up.py>`__             |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Nested Lists <https://www.hackerrank.com/challenges/nested-list/problem>`__                                         | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/nested_list.py>`__           |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Finding the percentage <https://www.hackerrank.com/challenges/finding-the-percentage/problem>`__                    | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/dictionary.py>`__            |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Lists <https://www.hackerrank.com/challenges/python-lists/problem>`__                                               | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/lists_cmd_eval.py>`__        |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| Solved   | Easy         | `Tuples <https://www.hackerrank.com/challenges/python-tuples/problem>`__                                             | `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/tuples_hash.py>`__           |
-+----------+--------------+----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `List Comprehensions <https://www.hackerrank.com/challenges/list-comprehensions/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/list_comprehensions.py>`_
+     * - Solved
+     - Easy
+     - `Find the Runner-Up Score! <https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/runner_up.py>`_
+     * - Solved
+     - Easy
+     - `Nested Lists <https://www.hackerrank.com/challenges/nested-list/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/nested_list.py>`_
+     * - Solved
+     - Easy
+     - `Finding the percentage <https://www.hackerrank.com/challenges/finding-the-percentage/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/dictionary.py>`_
+     * - Solved
+     - Easy
+     - `Lists <https://www.hackerrank.com/challenges/python-lists/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/lists_cmd_eval.py>`_
+     * - Solved
+     - Easy
+     - `Tuples <https://www.hackerrank.com/challenges/python-tuples/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/tuples_hash.py>`_
 
 Built-Ins
 ~~~~~~~~~
