@@ -9,81 +9,32 @@
 
 count of solution: 101
 
-Practice:
----------
-Algorithms
-~~~~~~~~~~
--  `Warmup <./README.rst#warmup>`__
-.. this: -  `Implementation
-.. this: -  `Strings
-.. this: -  `Sorting
-.. this: -  `Search
-.. this: -  `Graph Theory
-.. this: -  `Greedy
-.. this: -  `Dynamic Programming
-.. this: -  `Constructive Algorithms
-.. this: -  `Bit Manipulation
-.. this: -  `Recursion
-.. this: -  `Game Theory
-.. this: -  `NP Complete
-.. this: -  `Debugging
+.. contents::
+   :depth: 3
 
-.. this: Data Structures
-.. this: ~~~~~~~~~~~~~~~
-.. this: -  `Arrays
-.. this: -  `Linked Lists
-.. this: -  `Trees
-.. this: -  `Balanced Trees
-.. this: -  `Stacks
-.. this: -  `Queues
-.. this: -  `Heap
-.. this: -  `Disjoint Set
-.. this: -  `Multiple Choice
-.. this: -  `Trie
-.. this: -  `Advanced
+============
+**Practice**
+============
 
-Python
-~~~~~~
--  `Basic Data Types <./README.rst#basic-data-types>`__
--  `Built-Ins <./README.rst#Built-Ins>`__
--  `Collections <./README.rst#Collections>`__
--  `Numpy <./README.rst#Numpy>`__
--  `Regex and Parsing <./README.rst#Regex-and-Parsing>`__
--  `Sets <./README.rst#Sets>`__
--  `Strings <./README.rst#Strings>`__
-.. this: -  `Classes
-.. this: -  `Closures and Decorators
-.. this: -  `Date and Time
-.. this: -  `Debugging
-.. this: -  `Errors and Exceptions
-.. this: -  `Itertools
-.. this: -  `Math
-.. this: -  `Python Functionals
-.. this: -  `XML
-
-SQL
-~~~
--  `Aggregation <./README.rst#Aggregation>`__
--  `Basic Select <./README.rst#Basic-Select>`__
-.. this: -  `Advanced Join
-.. this: -  `Advanced Select
-.. this: -  `Alternative Queries
-.. this: -  `Basic Join
-
-Tutorials (Python):
--------------------
-`30 Days of Code <./README.rst#30-days-of-code>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-`10 Days of Statistics <./README.rst#10-days-of-statistics>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. this:-  `30 Days of Code <./README.rst#30-days-of-code>`__
-.. this:-  `10 Days of Statistics <./README.rst#10-days-of-statistics>`__
-
+----------
 Algorithms
 ----------
-Warmup
-~~~~~~
+.. this: Implementation
+.. this: Strings
+.. this: Sorting
+.. this: Search
+.. this: Graph Theory
+.. this: Greedy
+.. this: Dynamic Programming
+.. this: Constructive Algorithms
+.. this: Bit Manipulation
+.. this: Recursion
+.. this: Game Theory
+.. this: NP Complete
+.. this: Debugging
 
+Warmup
+--------------------------
 .. list-table:: **Warmup**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -101,11 +52,35 @@ Warmup
      - `Simple Array Sum <https://www.hackerrank.com/challenges/simple-array-sum/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Algorithms/Warmup/simple_array_sum.py>`_
 
+.. this: Data Structures
+.. this: ---------------
+.. this: Arrays
+.. this: Linked Lists
+.. this: Trees
+.. this: Balanced Trees
+.. this: Stacks
+.. this: Queues
+.. this: Heap
+.. this: Disjoint Set
+.. this: Multiple Choice
+.. this: Trie
+.. this: Advanced
+
+------
 Python
 ------
-Basic Data Types
-~~~~~~~~~~~~~~~~
+.. this: Classes
+.. this: Closures and Decorators
+.. this: Date and Time
+.. this: Debugging
+.. this: Errors and Exceptions
+.. this: Itertools
+.. this: Math
+.. this: Python Functionals
+.. this: XML
 
+Basic Data Types
+------------------------------------
 .. list-table:: **Basic Data Types**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -140,8 +115,7 @@ Basic Data Types
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Basic%20Data%20Types/tuples_hash.py>`_
 
 Built-Ins
-~~~~~~~~~
-
+-----------------------------
 .. list-table:: **Built-Ins**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -160,8 +134,7 @@ Built-Ins
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Built-Ins/sort_w_key.py>`_
 
 Collections
-~~~~~~~~~~~
-
+-------------------------------
 .. list-table:: **Collections**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -176,8 +149,7 @@ Collections
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Collections/defaultdict.py>`_
 
 Numpy
-~~~~~
-
+-------------------------
 .. list-table:: **Numpy**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -204,8 +176,7 @@ Numpy
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Numpy/Polynomials.py>`_
 
 Regex and Parsing
-~~~~~~~~~~~~~~~~~
-
+-------------------------------------
 .. list-table:: **Regex and Parsing**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -228,8 +199,7 @@ Regex and Parsing
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Regex%20and%20Parsing/Detect_HTML_Tags_Attr_AttValues.py>`_
 
 Sets
-~~~~
-
+------------------------
 .. list-table:: **Sets**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -272,8 +242,7 @@ Sets
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/Mutations.py>`_
      
 Strings
-~~~~~~~
-
+---------------------------
 .. list-table:: **Strings**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -327,11 +296,16 @@ Strings
      - `String Formatting <https://www.hackerrank.com/challenges/python-string-formatting/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Strings/Formatting.py>`_
 
+---
 SQL
 ---
-Aggregation
-~~~~~~~~~~~
+.. this: Advanced Join
+.. this: Advanced Select
+.. this: Alternative Queries
+.. this: Basic Join
 
+Aggregation
+------------------------------
 .. list-table:: **Agregation**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -362,8 +336,7 @@ Aggregation
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
 
 Basic Select
-~~~~~~~~~~~~
-
+--------------------------------
 .. list-table:: **Basic Select**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -455,11 +428,15 @@ Basic Select
    * - Solved
      - Easy
      - `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`_ 
-     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_  
+     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_ 
 
+===================
+**Tutorials**
+===================
+
+-----------------------------------
 30 Days of Code
----------------
-
+-----------------------------------
 .. list-table:: **30 Days of Code**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -589,9 +566,9 @@ Basic Select
      - `Day 29: Bitwise AND <https://www.hackerrank.com/challenges/30-bitwise-and/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Tutorials/30%20Days%20of%20Code/Day_29.py>`_
 
+-----------------------------------------
 10 Days of Statistics
----------------------
-
+-----------------------------------------
 .. list-table:: **10 Days of Statistics**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -641,5 +618,4 @@ Basic Select
      - `Day 3: Drawing Marbles <https://www.hackerrank.com/challenges/s10-mcq-6/problem>`_   
      - `file.py <>`_
 
-`Syntax guide for
-.rst <https://docutils.sourceforge.io/rst.html>`__
+`Syntax guide for .rst <https://docutils.sourceforge.io/rst.html>`__
