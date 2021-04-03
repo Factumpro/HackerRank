@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 101
+count of solution: 112
 
 .. contents::
    :depth: 3
