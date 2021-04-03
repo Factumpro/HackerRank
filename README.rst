@@ -335,27 +335,27 @@ Aggregation
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/the-blunder>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 2<https://www.hackerrank.com/challenges/weather-observation-station-2/problem>`_
+     - `Weather Observation Station 2 <https://www.hackerrank.com/challenges/weather-observation-station-2/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_02>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 13<https://www.hackerrank.com/challenges/weather-observation-station-13/problem>`_
+     - `Weather Observation Station 13 <https://www.hackerrank.com/challenges/weather-observation-station-13/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_13>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 14<https://www.hackerrank.com/challenges/weather-observation-station-14/problem>`_
+     - `Weather Observation Station 14 <https://www.hackerrank.com/challenges/weather-observation-station-14/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_14>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 15<https://www.hackerrank.com/challenges/weather-observation-station-15/problem>`_
+     - `Weather Observation Station 15 <https://www.hackerrank.com/challenges/weather-observation-station-15/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_15>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 16<https://www.hackerrank.com/challenges/weather-observation-station-16/problem>`_
+     - `Weather Observation Station 16 <https://www.hackerrank.com/challenges/weather-observation-station-16/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_16>`_
    * - Solved
      - Easy
-     - `Weather Observation Station 17<https://www.hackerrank.com/challenges/weather-observation-station-17/problem>`_
+     - `Weather Observation Station 17 <https://www.hackerrank.com/challenges/weather-observation-station-17/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_17>`_
 
 Basic Join
@@ -371,7 +371,7 @@ Basic Join
    * - Solved
      - Easy
      - `Average Population of Each Continent <https://www.hackerrank.com/challenges/average-population-of-each-continent/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic Join/average-population-of-each-continent>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Join/average-population-of-each-continent>`_
    * - Solved
      - Easy
      - `African Cities <https://www.hackerrank.com/challenges/african-cities/problem>`_
@@ -466,15 +466,15 @@ Basic Select
    * - Solved
      - Easy
      - `Higher Than 75 Marks <https://www.hackerrank.com/challenges/more-than-75-marks/problem>`_ 
-     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/substr.sql>`_     
+     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/substr.sql>`_
+   * - Solved
+     - Easy
+     - `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`_
+     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_
    * - Solved
      - Easy
      - `Employee Names <https://www.hackerrank.com/challenges/name-of-employees/problem>`_
      - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/order_by_asc.sql>`_
-   * - Solved
-     - Easy
-     - `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`_ 
-     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_
 
 ===================
 **Tutorials**
