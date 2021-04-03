@@ -302,7 +302,6 @@ SQL
 .. this: Advanced Join
 .. this: Advanced Select
 .. this: Alternative Queries
-.. this: Basic Join
 
 Aggregation
 ------------------------------
@@ -317,24 +316,47 @@ Aggregation
    * - Solved
      - Easy
      - `Revising Aggregations - Averages <https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/average.sql>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/average>`_
    * - Solved
      - Easy
      - `Average Population <https://www.hackerrank.com/challenges/average-population/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/round_avg.sql>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/round_avg>`_
    * - Solved
      - Easy
      - `Japan Population <https://www.hackerrank.com/challenges/japan-population/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/japan-population>`_
    * - Solved
      - Easy
      - `Population Density Difference <https://www.hackerrank.com/challenges/population-density-difference/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/population-density-difference>`_
    * - Solved
      - Easy
      - `The Blunder <https://www.hackerrank.com/challenges/the-blunder/problem>`_
-     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/the-blunder>`_
 
+Basic Join
+------------------------------
+.. list-table:: **Basic Join**
+   :widths: 10 10 60 20
+   :header-rows: 1
+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+	 - `Average Population of Each Continent <https://www.hackerrank.com/challenges/average-population-of-each-continent/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic Join/average-population-of-each-continent>`_
+   * - Solved
+     - Easy
+	 - `African Cities <https://www.hackerrank.com/challenges/african-cities/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Join/african-cities>`_
+   * - Solved
+     - Easy
+	 - `Population Census <https://www.hackerrank.com/challenges/asian-population/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Join/asian-population>`_
+	 
 Basic Select
 --------------------------------
 .. list-table:: **Basic Select**
