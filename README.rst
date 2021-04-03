@@ -474,7 +474,7 @@ Basic Select
    * - Solved
      - Easy
      - `Employee Salaries <https://www.hackerrank.com/challenges/salary-of-employees/problem>`_ 
-     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_ 
+     - `file.sql <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Basic%20Select/where_and.sql>`_
 
 ===================
 **Tutorials**
