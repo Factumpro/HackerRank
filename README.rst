@@ -333,6 +333,30 @@ Aggregation
      - Easy
      - `The Blunder <https://www.hackerrank.com/challenges/the-blunder/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/the-blunder>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 2<https://www.hackerrank.com/challenges/weather-observation-station-2/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_02>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 13<https://www.hackerrank.com/challenges/weather-observation-station-13/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_13>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 14<https://www.hackerrank.com/challenges/weather-observation-station-14/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_14>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 15<https://www.hackerrank.com/challenges/weather-observation-station-15/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_15>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 16<https://www.hackerrank.com/challenges/weather-observation-station-16/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_16>`_
+   * - Solved
+     - Easy
+	 - `Weather Observation Station 17<https://www.hackerrank.com/challenges/weather-observation-station-17/problem>`_
+	 - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_17>`_
 
 Basic Join
 ------------------------------
