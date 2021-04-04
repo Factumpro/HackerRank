@@ -52,10 +52,10 @@ Warmup
      - `Simple Array Sum <https://www.hackerrank.com/challenges/simple-array-sum/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Algorithms/Warmup/simple_array_sum.py>`_
 
-.. this: Data Structures
-.. this: ---------------
+---------------
+Data Structures
+---------------
 .. this: Arrays
-.. this: Linked Lists
 .. this: Trees
 .. this: Balanced Trees
 .. this: Stacks
@@ -65,6 +65,29 @@ Warmup
 .. this: Multiple Choice
 .. this: Trie
 .. this: Advanced
+
+Linked List
+--------------------------
+.. list-table:: **Linked List**
+   :widths: 10 10 60 20
+   :header-rows: 1
+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `Insert a Node at the Tail of a Linked List <https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Linked%20Lists/insertNodeAtTail.py>`_
+   * - Solved
+     - Easy
+     - `Print the Elements of a Linked List <https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Linked%20Lists/printLinkedList.py>`_
+   * - Solved
+     - Easy
+     - `Insert a node at the head of a linked list <https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Linked%20Lists/insertNodeAtHead.py>`_
 
 ------
 Python
