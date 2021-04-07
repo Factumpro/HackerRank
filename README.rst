@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 113
+count of solution: 114
 
 .. contents::
    :depth: 3
@@ -102,6 +102,10 @@ Arrays
      - Easy
      - `Dynamic Array <https://www.hackerrank.com/challenges/dynamic-array/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/dynamic_array.py>`_
+   * - Solved
+     - Easy
+     - `Sparse Arrays <https://www.hackerrank.com/challenges/sparse-arrays/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/sparse_arrays.py>`_
 
 ------
 Python
