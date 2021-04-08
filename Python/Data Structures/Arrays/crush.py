@@ -9,15 +9,21 @@ import sys
 
 def arrayManipulation(n, queries):
     """
-    O(n**2) - need optimization!
+    O(n+m)
     """
-    arr_m = [0 for _ in range(n)]    
-    for i in range(len(queries)):
-        ind_start = queries[i][0] - 1
-        ind_end = queries[i][1]
-        for j in range(ind_start, ind_end):
-            arr_m[j] += queries[i][2]
-    return max(arr_m)
+    array = [0] * (n + 1)
+    for query in queries: 
+        ind_start = query[0] - 1
+        ind_end = query[1]
+        array[ind_start] += query[2]
+        array[ind_end] -= query[2]
+    max_value = 0
+    count = 0
+    for i in array:
+        count += i
+        if count > max_value:
+            max_value = count
+    return max_value
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
