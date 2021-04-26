@@ -55,7 +55,6 @@ Warmup
 ---------------
 Data Structures
 ---------------
-.. this: Arrays
 .. this: Trees
 .. this: Balanced Trees
 .. this: Stacks
@@ -67,7 +66,7 @@ Data Structures
 .. this: Advanced
 
 Linked List
---------------------------
+-------------------------------
 .. list-table:: **Linked List**
    :widths: 10 10 60 20
    :header-rows: 1
@@ -88,6 +87,27 @@ Linked List
      - Easy
      - `Insert a node at the head of a linked list <https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Linked%20Lists/insertNodeAtHead.py>`_
+
+
+Arrays
+--------------------------
+.. list-table:: **Arrays**
+   :widths: 10 10 60 20
+   :header-rows: 1
+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `Dynamic Array <https://www.hackerrank.com/challenges/dynamic-array/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/dynamic_array.py>`_
+   * - Solved
+     - Easy
+     - `Sparse Arrays <https://www.hackerrank.com/challenges/sparse-arrays/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/sparse_arrays.py>`_
+
 
 ------
 Python
