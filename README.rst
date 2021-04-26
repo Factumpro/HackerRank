@@ -88,6 +88,7 @@ Linked List
      - `Insert a node at the head of a linked list <https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Linked%20Lists/insertNodeAtHead.py>`_
 
+
 Arrays
 --------------------------
 .. list-table:: **Arrays**
@@ -106,6 +107,7 @@ Arrays
      - Easy
      - `Sparse Arrays <https://www.hackerrank.com/challenges/sparse-arrays/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/sparse_arrays.py>`_
+
 
 ------
 Python
