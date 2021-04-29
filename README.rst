@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 117
+count of solution: 118
 
 .. contents::
    :depth: 3
@@ -283,6 +283,10 @@ Sets
      - Easy
      - `Set Mutations <https://www.hackerrank.com/challenges/py-set-mutations/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/Mutations.py>`_
+   * - Solved
+     - Easy
+     - `Symmetric Difference Operation <https://www.hackerrank.com/challenges/symmetric-difference/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Practice/Sets/symmetric_difference_2.py>`_
      
 Strings
 ---------------------------
