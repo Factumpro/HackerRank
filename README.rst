@@ -7,7 +7,7 @@
        <br>This repository contains my solutions to HackerRank challenges
    </p>
 
-count of solution: 115
+count of solution: 117
 
 .. contents::
    :depth: 3
@@ -400,6 +400,14 @@ Aggregation
      - Easy
      - `Weather Observation Station 17 <https://www.hackerrank.com/challenges/weather-observation-station-17/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_17>`_
+   * - Solved
+     - Easy
+     - `Weather Observation Station 18 <https://www.hackerrank.com/challenges/weather-observation-station-18/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/WOS_18>`_
+   * - Solved
+     - Easy
+     - `Top Earners <https://www.hackerrank.com/challenges/earnings-of-employees/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/SQL/Practice/Aggregation/earnings-of-employees>`_
 
 Basic Join
 ------------------------------
