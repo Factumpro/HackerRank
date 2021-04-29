@@ -1,5 +1,4 @@
 #!/bin/bash
-
 read x
 read y
 if ((x > y)) 

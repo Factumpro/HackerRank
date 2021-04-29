@@ -1,5 +1,4 @@
-#!/usr/bin
-
+#!/bin/bash
 read val
 if [[ $val == [Yy] ]]
 then
