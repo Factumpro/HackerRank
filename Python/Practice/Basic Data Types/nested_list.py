@@ -13,6 +13,7 @@ def minScore(students):
      if i[INDEX_SCORE] == min_score[INDEX_SCORE]]
     return min_score_list
 
+
 if __name__ == '__main__':
     N = int(input())
     students = list(map(lambda _: [input(), float(input())], range(N)))

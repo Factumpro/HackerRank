@@ -4,6 +4,7 @@
 def meanMark(query_scores):
     return sum(query_scores)/len(query_scores)
 
+
 if __name__ == '__main__':
     students = {}
     for _ in range(int(input())):
