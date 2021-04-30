@@ -1,11 +1,11 @@
-'''
-Python Evaluation
+#!/usr/bin/env python3
 
-  https://www.hackerrank.com/challenges/python-eval/problem
+"""
+    Python Evaluation
+    -----------------
+    https://www.hackerrank.com/challenges/python-eval/problem
+"""
 
-'''
-
-#!/usr/bin/python3
 
 if __name__ == '__main__':
     eval(input())
