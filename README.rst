@@ -72,13 +72,27 @@ Data Structures
 ---------------
 .. this: Trees
 .. this: Balanced Trees
-.. this: Stacks
 .. this: Queues
 .. this: Heap
 .. this: Disjoint Set
 .. this: Multiple Choice
 .. this: Trie
 .. this: Advanced
+  
+Stacks
+--------------------------
+.. list-table:: **Stacks**
+   :widths: 10 10 60 20
+   :header-rows: 1
+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Medium
+     - `Insert a Node at the Tail of a Linked List <https://www.hackerrank.com/challenges/balanced-brackets/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Stacks/balanced_brackets.py>`_
 
 Linked List
 -------------------------------
@@ -122,6 +136,11 @@ Arrays
      - Easy
      - `Sparse Arrays <https://www.hackerrank.com/challenges/sparse-arrays/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/sparse_arrays.py>`_
+   * - Solved
+     - Easy
+     - `Array Manipulation <https://www.hackerrank.com/challenges/crush/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Data%20Structures/Arrays/crush.py>`_
+
 
 
 ------
