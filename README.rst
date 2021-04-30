@@ -52,6 +52,21 @@ Warmup
      - `Simple Array Sum <https://www.hackerrank.com/challenges/simple-array-sum/problem>`_
      - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Algorithms/Warmup/simple_array_sum.py>`_
 
+Implementation
+--------------------------
+.. list-table:: Implementation
+   :widths: 10 10 60 20
+   :header-rows: 1
+
+   * - Status
+     - Difficulty
+     - Problem
+     - Solution
+   * - Solved
+     - Easy
+     - `Grading Students <https://www.hackerrank.com/challenges/grading/problem>`_
+     - `file.py <https://github.com/Factumpro/HackerRank/blob/main/Python/Algorithms/Implementation/grading.py>`_
+
 ---------------
 Data Structures
 ---------------
